@@ -1,0 +1,5 @@
+*.bat
+*.code-workspace
+!/calc_ipd_offset_make_bat.bat
+!/data/template.bat
+!/reset.bat
