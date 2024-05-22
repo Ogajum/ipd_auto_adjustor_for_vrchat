@@ -1,0 +1,2 @@
+# ipd_auto_adjustor_for_vrchat
+VRChatでアバターの大きさに合わせてSteamVRのipdOffsetを変更するためのセットアップツールです。
