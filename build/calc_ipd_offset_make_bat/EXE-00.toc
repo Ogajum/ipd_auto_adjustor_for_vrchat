@@ -1,0 +1,65 @@
+('D:\\Others\\GitHub\\ipd_auto_adjustor_for_vrchat\\build\\calc_ipd_offset_make_bat\\calc_ipd_offset_make_bat.exe',
+ True,
+ False,
+ True,
+ 'd:\\others\\github\\ipd_auto_adjustor_for_vrchat\\.env\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
+ None,
+ False,
+ False,
+ b'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<assembly xmlns='
+ b'"urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">\n  <trustInfo x'
+ b'mlns="urn:schemas-microsoft-com:asm.v3">\n    <security>\n      <requested'
+ b'Privileges>\n        <requestedExecutionLevel level="asInvoker" uiAccess='
+ b'"false"/>\n      </requestedPrivileges>\n    </security>\n  </trustInfo>\n  '
+ b'<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">\n    <'
+ b'application>\n      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f'
+ b'0}"/>\n      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>\n '
+ b'     <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>\n      <s'
+ b'upportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>\n      <supporte'
+ b'dOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>\n    </application>\n  <'
+ b'/compatibility>\n  <application xmlns="urn:schemas-microsoft-com:asm.v3">'
+ b'\n    <windowsSettings>\n      <longPathAware xmlns="http://schemas.micros'
+ b'oft.com/SMI/2016/WindowsSettings">true</longPathAware>\n    </windowsSett'
+ b'ings>\n  </application>\n  <dependency>\n    <dependentAssembly>\n      <ass'
+ b'emblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version='
+ b'"6.0.0.0" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" langua'
+ b'ge="*"/>\n    </dependentAssembly>\n  </dependency>\n</assembly>',
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'D:\\Others\\GitHub\\ipd_auto_adjustor_for_vrchat\\build\\calc_ipd_offset_make_bat\\calc_ipd_offset_make_bat.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'D:\\Others\\GitHub\\ipd_auto_adjustor_for_vrchat\\build\\calc_ipd_offset_make_bat\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\Others\\GitHub\\ipd_auto_adjustor_for_vrchat\\build\\calc_ipd_offset_make_bat\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\Others\\GitHub\\ipd_auto_adjustor_for_vrchat\\build\\calc_ipd_offset_make_bat\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\Others\\GitHub\\ipd_auto_adjustor_for_vrchat\\build\\calc_ipd_offset_make_bat\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\Others\\GitHub\\ipd_auto_adjustor_for_vrchat\\build\\calc_ipd_offset_make_bat\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\Others\\GitHub\\ipd_auto_adjustor_for_vrchat\\build\\calc_ipd_offset_make_bat\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'd:\\others\\github\\ipd_auto_adjustor_for_vrchat\\.env\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('calc_ipd_offset_make_bat',
+   'D:\\Others\\GitHub\\ipd_auto_adjustor_for_vrchat\\src\\calc_ipd_offset_make_bat.py',
+   'PYSOURCE')],
+ [],
+ False,
+ False,
+ 1716642202,
+ [('run.exe',
+   'd:\\others\\github\\ipd_auto_adjustor_for_vrchat\\.env\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
+   'EXECUTABLE')],
+ 'C:\\Users\\Jumpei\\.pyenv\\pyenv-win\\versions\\3.9.2\\python39.dll')

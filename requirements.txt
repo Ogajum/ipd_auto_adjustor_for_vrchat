@@ -1,0 +1,8 @@
+altgraph==0.17.4
+importlib-metadata==7.1.0
+packaging==24.0
+pefile==2023.2.7
+pyinstaller
+pyinstaller-hooks-contrib
+pywin32-ctypes==0.2.2
+zipp==3.18.2

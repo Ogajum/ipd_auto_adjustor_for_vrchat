@@ -1,5 +1,8 @@
 *.bat
 *.code-workspace
-!/calc_ipd_offset_make_bat.bat
+!calc_ipd_offset_make_bat.bat
 !/data/template.bat
-!/reset.bat
+!reset.bat
+!/make_exe.bat
+.env
+.python-version
