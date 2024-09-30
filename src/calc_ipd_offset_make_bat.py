@@ -79,7 +79,7 @@ elif mode == CalcMode.IPD_BASE:
         else:
             user_ipd = userbody["ipd"]
     else:
-        maesure_flg = True
+        measure_flg = True
     if measure_flg:
         print("自分のipd(瞳孔間距離)を入力してください(mm) \n> ",end="")
         user_ipd = float(input())/1000
