@@ -1,4 +1,4 @@
-IPD auto adjustor for VRChat v0.1.0
+IPD auto adjustor for VRChat v0.1.1
 
 このツールはVRChatでアバターの大きさに合わせてSteamVRのipdOffsetを変更するためのセットアップツールです。
 VRChatの標準のスケーリング方式では、アバターの大きさや身長に合わせて世界が拡縮されて見えます。
